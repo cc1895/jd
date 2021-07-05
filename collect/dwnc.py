@@ -1,11 +1,18 @@
 Skip to content
-PullsIssuesMarketplace
+￼￼
+Pull requests
+Issues
+Marketplace
 Explore
- 
-ycyfff/scripts
- Watch 0
- Star0
- Fork0
+ 
+￼ 
+cc1895
+/
+jd
+forked from blucewyan/jd
+ Watch 
+0
+￼ Star0 Fork3
 Code
 Pull requests
 Actions
@@ -13,15 +20,43 @@ Projects
 Wiki
 Security
 Insights
- main 
-scripts/dwnc.py / Jump to 
+Settings
+ main 
+jd/collect/dwnc.py / Jump to 
 Go to file
-lxgaishiqi 创建 dwnc.py
-Latest commit 679c052 2 days ago History
- 1 contributor
-7146 lines (7056 sloc)  249 KB
+￼
+cc1895 Update and rename 搜集/dwnc.py to collect/dwnc.py
+Latest commit e3915d4 2 minutes ago
+ History
+ 2 contributors
+￼￼
+89 lines (89 sloc)  2.08 KB
 RawBlame
-  
+ ￼ ￼
+Skip to content
+PullsIssuesMarketplace
+Explore
+ 
+ycyfff/scripts
+ Watch 0
+ Star0
+ Fork0
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+ main 
+scripts/dwnc.py / Jump to 
+Go to file
+lxgaishiqi 创建 dwnc.py
+Latest commit 679c052 2 days ago History
+ 1 contributor
+7146 lines (7056 sloc)  249 KB
+RawBlame
+  
  CAN_NOTIFY = True 
  import datetime 
  import json 
@@ -87,3 +122,15 @@ RawBlame
  self.can_video = True 
  self.can_gold = True 
    def load_settin
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
